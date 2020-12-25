@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCmEzKROPf5UStMyQpQlCebqQBmNItHV0+Y/iOuIYDUBJSSL4WnBThygkroDHfxqjdY8gZCqM1bT6deXSEH1BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dude\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dude\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
